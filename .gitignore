@@ -1,0 +1,12 @@
+.idea
+
+/case1/.idea
+/case2/.idea
+
+/case3/.idea
+/case3/backend/.idea
+/case3/frontend/.idea
+/case3/backend/.env
+/case3/frontend/.env
+/case3/frontend/node_modules
+/case3/frontend/node_modules/

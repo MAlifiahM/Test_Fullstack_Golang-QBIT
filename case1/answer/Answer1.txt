@@ -1,0 +1,9 @@
+[
+	"Apel",
+	"Kurma",
+	"apel",
+	"Manggis",
+	"Jeruk Bali",
+	"KURMA",
+	"Salak"
+]

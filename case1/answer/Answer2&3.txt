@@ -1,0 +1,75 @@
+{
+	"IMPORT": {
+		"fruits": [
+			{
+				"fruitId": 1,
+				"fruitName": "Apel",
+				"fruitType": "IMPORT",
+				"stock": 10
+			},
+			{
+				"fruitId": 2,
+				"fruitName": "Kurma",
+				"fruitType": "IMPORT",
+				"stock": 20
+			},
+			{
+				"fruitId": 3,
+				"fruitName": "apel",
+				"fruitType": "IMPORT",
+				"stock": 50
+			},
+			{
+				"fruitId": 6,
+				"fruitName": "KURMA",
+				"fruitType": "IMPORT",
+				"stock": 20
+			}
+		],
+		"total_stock": 100
+	},
+	"LOCAL": {
+		"fruits": [
+			{
+				"fruitId": 4,
+				"fruitName": "Manggis",
+				"fruitType": "LOCAL",
+				"stock": 100
+			},
+			{
+				"fruitId": 5,
+				"fruitName": "Jeruk Bali",
+				"fruitType": "LOCAL",
+				"stock": 10
+			},
+			{
+				"fruitId": 7,
+				"fruitName": "Salak",
+				"fruitType": "LOCAL",
+				"stock": 150
+			}
+		],
+		"total_stock": 260
+	}
+}
+
+Text Answer 2 :
+    Jumlah buah yang di pisahkan berdasarkan tipenya adalah 2 yaitu terdiri dari :
+    Import :
+        Apel, Kurma, apel, KURMA
+    Local :
+        Manggis, Jeruk Bali, Salak
+
+Text Answer 3 :
+    Total stock buah yang ada di masing-masing wadah
+    Import :
+        Apel : 10,
+        Kurma : 20,
+        apel : 50,
+        KURMA : 20
+        Total Stock : 100
+    Local :
+        Manggis : 100,
+        Jeruk Bali : 10,
+        Salak : 150
+        Total Stock : 260

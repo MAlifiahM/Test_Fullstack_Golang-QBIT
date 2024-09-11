@@ -1,0 +1,9 @@
+Seharusnya nama buah di buat menjadi general agar tidak terjadi duplikasi data
+contohnya :
+ - apel dengan Apel dan Kurma dengan KURMA
+ - apabila data sudah di buat normalisasi seperti di uppercase ( contoh: APEL dan KURMA )
+   atau di lowercase ( contoh : apel dan kurma ) maka tidak akan terjadi duplikasi
+ - dan seharusnya data buah akan menjadi
+   - apel : 60
+   - kurma : 40
+ - data yang lebih kecil juga bisa membuat API menjadi lebih cepat dan ringan
